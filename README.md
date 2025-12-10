@@ -1,4 +1,4 @@
-# QTM 350 - Quiz 03
+# DATASCI 350 - Quiz 03
 
 ## AI-Assisted Programming, Local LLMs, and Cloud Computing
 
